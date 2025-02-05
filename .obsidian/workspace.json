@@ -11,10 +11,14 @@
             "id": "14fb373ea75c6152",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Test Article.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Article"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "Test Article"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +207,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fc54af85e032484",
+  "active": "14fb373ea75c6152",
   "lastOpenFiles": [
     "Welcome.md",
     "Test Article.md",
