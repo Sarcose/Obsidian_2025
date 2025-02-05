@@ -3,3 +3,6 @@ Test 2 - this is a test of the commits.
 
 
 This is a test 3 from my macBook!
+
+
+Test 4 from macBook -- git script pushing bebe
