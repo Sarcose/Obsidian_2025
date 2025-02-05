@@ -10,3 +10,6 @@ this is the real commit - test 5
 
 
 even more newerer commit - test 6
+
+
+testing from Windows maching! -- test 7
