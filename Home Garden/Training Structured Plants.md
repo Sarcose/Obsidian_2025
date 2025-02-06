@@ -1,0 +1,1 @@
+Some plants, such as **Peas** need to be trained on a trellis structure. Need to look into how to do Trellises.
