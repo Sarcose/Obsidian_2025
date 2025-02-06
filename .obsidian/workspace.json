@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "68ef14a6c4b3858d",
@@ -196,11 +196,12 @@
   },
   "active": "9e8a6fab0ff24ec4",
   "lastOpenFiles": [
-    "Home Garden/Supplies List.md",
-    "Home Garden/Plants.md",
     "Home Garden/Soil Quality.md",
     "Home Garden/2025 Plan.md",
     "Home Garden/Misc Notes.md",
+    "Home Garden/Supplies List.md",
+    "GameCrash.md",
+    "Home Garden/Plants.md",
     "Home Garden/Training Structured Plants.md",
     "Home Garden/Uncollected Notes.md",
     "Home Garden/Temperatures.md",
@@ -208,7 +209,6 @@
     "Home Garden",
     "Minor Projects/Windows Specific/Hotkey Workflow.md",
     "11234.md",
-    "GameCrash.md",
     "Minor Projects/Windows Specific",
     "Minor Projects/AI Personal Assistant.md",
     "Minor Projects/Note about this folder.md",
