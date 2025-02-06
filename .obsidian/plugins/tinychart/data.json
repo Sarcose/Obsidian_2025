@@ -1,0 +1,10 @@
+{
+  "fillChar": "█",
+  "emptyChar": "-",
+  "prefixChar": "",
+  "suffixChar": "",
+  "chartLength": 40,
+  "codeBlock": true,
+  "showLabels": true,
+  "rightAlignLabels": true
+}

@@ -250,5 +250,35 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-chartsview-plugin:insert-chartsview-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-plotly:add-plotly-example": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "tinychart:horizontal-bar-example": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }

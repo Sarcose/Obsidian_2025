@@ -1,9 +1,11 @@
 [
   "quick-explorer",
-  "table-editor-obsidian",
   "remember-cursor-position",
   "new-tab-default-page",
   "tag-wrangler",
   "obsidian-plugin-toc",
-  "create-note-in-folder"
+  "create-note-in-folder",
+  "table-editor-obsidian",
+  "textgrams",
+  "tinychart"
 ]

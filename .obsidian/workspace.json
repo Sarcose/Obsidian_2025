@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8c0ee90a11d3c7",
+        "id": "6da393934a1c6139",
         "type": "tabs",
         "children": [
           {
-            "id": "e46fa4d94a67148e",
+            "id": "9b20d0dd72c7a82b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,41 @@
               },
               "icon": "lucide-file",
               "title": "1. Unsorted Notes"
+            }
+          },
+          {
+            "id": "0ba046f6e9248718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Garden/Supplies_List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supplies_List"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2bbbe408da8188a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62cb4c648a8f5ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Garden/Supplies_List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supplies_List"
             }
           }
         ]
@@ -53,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"excalidraw-plugin\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Article.md",
+                "file": "Home Garden/1. Unsorted Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Article"
+              "title": "Outline of 1. Unsorted Notes"
             }
           },
           {
@@ -164,19 +199,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "3fc54af85e032484",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,32 +210,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e46fa4d94a67148e",
+  "active": "0ba046f6e9248718",
   "lastOpenFiles": [
+    "Home Garden/Soil Quality.md",
+    "Home Garden/Supplies_List.md",
     "Home Garden/1. Unsorted Notes.md",
-    "Home Garden/Investment Ratios.md",
+    "Home Garden/Temperatures.md",
+    "Home Garden/Plants.md",
     "Home Garden/Monthly Plan (Rough).md",
-    "Home Garden/Supplies List.md",
+    "Home Garden/2025 Plan.md",
+    "Home Garden/Untitled.md",
+    "Home Garden/Test/blah.md",
+    "Home Garden/Test",
+    "sourceFolder/Test.md",
+    "sourceFolder",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2025-02-06 15.00.09.excalidraw.md",
+    "Excalidraw",
+    "CleanShot 2025-02-06 at 14.34.22@2x.png",
+    "CleanShot 2025-02-06 at 14.32.21@2x.png",
+    "CleanShot 2025-02-06 at 14.31.46@2x.png",
+    "Home Garden/Investment Ratios.md",
     "Calendar Project/Notes.md",
     "GameCrash.md",
-    "Home Garden/2025 Plan.md",
     "2025-02-05.md",
     "Calendar Project",
     "Home Garden/0. Information Workflow.md",
     "Home Garden/Training Structured Plants.md",
-    "Home Garden/Plants.md",
-    "Home Garden/Soil Quality.md",
     "Home Garden/Uncollected Notes.md",
-    "Home Garden/Temperatures.md",
     "Minor Projects/Backup Workflow.md",
     "Home Garden",
     "Minor Projects/Windows Specific/Hotkey Workflow.md",
@@ -222,15 +258,8 @@
     "D&D/Erandu/Penrith/Mint/The Senaedra.md",
     "D&D/Erandu/Penrith/Mint/Session 1-2 - The Uprising.md",
     "D&D/Erandu/Penrith/Mint/Notes.md",
-    "D&D/Erandu/Penrith/Mint/Original Description Snippets.md",
-    "D&D/Erandu/Penrith/Rough Descriptions.md",
     "D&D/Erandu/Penrith/Mint",
-    "D&D/Erandu/Penrith/Leaving Penrith Part 2.md",
-    "D&D/Erandu/Penrith/Leaving Penrith Part 1.md",
     "D&D/Erandu/Penrith",
-    "D&D/Erandu",
-    "D&D",
-    "1Za12248",
-    "obsidian.zip"
+    "D&D/Erandu"
   ]
 }
