@@ -6,8 +6,10 @@ tools, resources, plants, organization
 ### List with rough prices & priority
 *priority: low, med, high*
 *prices: price/10, with 100 clamping at 0.9 and higher being set at 1*
-- Grow Containers (pots, grow bags, 5 gallon buckets): $10-20
+
+##### Tool
 - Cardboard: free
+- Grow Containers (pots, grow bags, 5 gallon buckets): $10-20
 - Hoe: $15-20
 - Garden gloves: $10
 - Wheelbarrow: $80
@@ -15,24 +17,30 @@ tools, resources, plants, organization
 - Thermometer: $10
 - Thermometer w/moisture meter: $35
 - Spray Nozzle: $10
-- Seed trays (cheap): $15
 - Lamp: $25
 - Heated mat: $15~
-- Spring Seeds: 
+- Jeans: $20
+- Tiller: expensive
+- Clippers: $8
+- Straw hat: $10
+- Garden Rake: $20
+##### Resource
 - Landscape Fabric: $20
-
-- Unpriced yet:
-	- Straw Mulch
-	- Soil mix:
-		- Hardwood Mulch - 1 bag (medium priority) $20
-		- Leaf Bagged Product -  2 bags (higher priority) $40
-		- Peat Moss - 1 bag (higher priority) $20
-		- Pearlite - small amount (lower priority) $10
-
+- Labels: $15
+- Dowels/Stakes: $10
+##### Plant
+- Seed budget: $40
+##### Organizing
+- Something for a worktable in the lower storage room
+##### Soil
+- Straw Mulch
+- Soil mix:
+	- Hardwood Mulch - 1 bag (medium priority) $20
+	- Leaf Bagged Product -  2 bags (higher priority) $40
+	- Peat Moss - 1 bag (higher priority) $20
+	- Pearlite - small amount (lower priority) $10
 
 ### Sorted by price vs priority
-
-
 
 ```mermaid
 
@@ -84,25 +92,31 @@ quadrantChart
 	
 	
 
-	Pots $10-20:::tool: [0.15, 0.7]
-	Thermometer $10:::tool:[0.13, 0.73]
-	Hoe $15-20:::tool: [0.15, 0.87]
 	Spray Nozzle $10:::tool:[0.1,0.9]
-	Seed Trays $15:::resource:[0.15,0.45]
+	Hoe $15-20:::tool: [0.15, 0.87]
+	Jeans $20:::tool:[0.20, 0.76]
+	Thermometer $10:::tool:[0.13, 0.73]
+	Thermometer w/moisture meter $35:::tool:[0.35, 0.73]
+	Pots $10-20:::tool: [0.15, 0.7]
+	Tiller $$:::tool:[0.97,0.7]
+	Wheelbarrow $80:::soil:[0.8,0.6]
+	Garden Cart $15:::soil:[0.5,0.6]
 	Lamp $25:::tool:[0.26,0.46]
 	Heat Mat $15-20:::tool:[0.15,0.3]
-	Tiller $$:::tool:[0.97,0.7]
-	Landscape Fabric $15:::tool:[0.2,0.67]
-	Garden Cart $15:::soil:[0.5,0.6]
-	Wheelbarrow $80:::soil:[0.8,0.6]
+	Clippers $8:::tool:[0.08,0.55]
+	Straw Hat $10:::tool:[0.1,0.5]
+	Garden Rake $20:::tool:[0.21,0.5]
+	Gloves $10-20:::tool:[0.17, 0.23]
+
+	Landscape Fabric $15:::resource:[0.2,0.67]
+	Metal Labels $15:::resource:[0.15,0.35]
+	Dowels $10:::resource:[0.1,0.4]
+
+	Seed budget $40:::plant: [0.4, 0.95]
+
 	Straw Mulch $20:::soil:[0.2,0.8]
-	Wood Mulch $20:::soil:[0.2,0.6]
-	Peat Moss $40:::soil:[0.4,0.7]
-	Pearlite $10:::soil:[0.1,0.2]
-
-	
-
-
+	Soil Mix $80:::soil:[0.8,0.8]
+	Pearlite $10:::soil:[0.1,0.15]
 ```
 
 
