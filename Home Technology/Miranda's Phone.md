@@ -1,0 +1,9 @@
+Galaxy Note 9, dying
+
+
+Replacements: Galaxy S24 Ultra runs about $150-170, just about as much as a new Note 9 screen would.
+
+https://www.ebay.com/itm/335737478557?_skw=galaxy+s24+ultra&itmmeta=01JMDST0E8TZNCB7CEH4QBBZ6V&hash=item4e2b835d9d:g:KjMAAOSwD4NnYn8l&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1ebt0Y35OZXgcbHlQbuDcKNJYIY6IcNjHt6oEqhIHlRjymerYKXx0QyJXzqtXqpbb9B19UmJfjs7c4frQHrJ5905nLp%2F%2BcUlFiiX5fAeJsZjBNDM%2BHEvCbzMUfpg9tmSew7L5Jo%2BWnvujxw%2BfaC%2BIzYrO%2ByaJ6EtcIvn60%2B2yYJM%2Fyp8G6YMXBx53%2BmP9n0VlJdGwSyF6ejY11cC9DlpeFyujJdrfWajNkM5NWRzLfAJ1dTnb3IgGS%2FI3qodJEaKkmFHr0CzcpW26X%2BYg5GWVHPWpdN%2FXCskSu3SEKo4Nef5A%3D%3D%7Ctkp%3ABFBMoofouaNl
+
+
+https://www.ebay.com/itm/186910441516?_skw=galaxy+s24+ultra&itmmeta=01JMDST0E8CYVQWFV2ZV0JFHM3&hash=item2b84bb002c:g:jOwAAOSwU6RnkLnb&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1ehZIiGgdY49Lv%2BfC9FRdebttBp3pHd3ZiL1QDm%2FfBqkeJuIf86BL3ltZm5E5%2BUWpw73d%2FduDXW%2FLJv6%2BmYQgiphkhQtmju7vjKcdi3WdxEHJjcIrIUQdDzKDB%2BoZ9G92I7vpI6Faq6KorEwDzAlwjMujnFDRF6nx9PMIKw%2F29zDu%2BX0sVjld3d0hE2wJxIYdpl2%2B50U%2FhaIHudgiKye%2BamwmWtjZUMNFv3pe4zrNuoUbqKmytDmukq9CZ2fpJ1SRL%2BLKmnaLu7vtBuF678BKS8%2BZRqgiT27CmmVQpEyXuNGg%3D%3D%7Ctkp%3ABFBMoofouaNl
