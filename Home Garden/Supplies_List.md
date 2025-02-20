@@ -26,7 +26,7 @@ tools, resources, plants, organization
 - Garden Rake: $20
 ##### Resource
 - Landscape Fabric: $20
-- Labels: $15
+- Labels: $15-
 - Dowels/Stakes: $10
 ##### Plant
 - Seed budget: $40
