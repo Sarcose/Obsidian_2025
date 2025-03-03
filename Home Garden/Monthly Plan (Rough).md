@@ -21,19 +21,16 @@ A quick overview before I get this into a better Calendar
 
 (Done)
 #### February
-
+- [x] Start basic tool and seed lists
+- [x] Order garden supplies
+- [x] Research
+#### March
 - [ ] Prepare eggs
 	- [ ] Wash and Microwave, crush (keep these for next year)
 - [ ] Prepare Soil Mix
-- [ ] Put together March Plan
-	- [ ] Turning Soil starts in Early - Mid March
-- [ ] Put together calendar plan -- put frost times into calendar
-- [ ] Start basic tool and seed lists
-- [ ] 
-
-
-#### March
-
+- [ ] Prepare workspace for seeding
+- [ ] Begin seeding (plants)
+- [ ] Tear up garden and lay out the plan and plots
 
 #### April
 

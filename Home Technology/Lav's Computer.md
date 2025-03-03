@@ -1,4 +1,4 @@
-Acer Aspire Z3-710
+xAcer Aspire Z3-710
 4GB RAM
 1TB SATA 5400 RPM Good
 BIOS R01-A
