@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "68ef14a6c4b3858d",
@@ -186,15 +187,15 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
-    "Home Garden/Monthly Plan (Rough).md",
     "Home Garden/2025 Plan.md",
-    "Home Garden/1. Unsorted Notes.md",
+    "Home Garden/Temperatures.md",
     "Home Garden/Planting Plan.md",
+    "Home Garden/Monthly Plan (Rough).md",
+    "Home Garden/1. Unsorted Notes.md",
     "Home Garden/Plant Notes (Living Document).md",
     "Home Garden/Soil Quality.md",
     "Home Garden/Supplies_List.md",
     "Home Garden/Training Structured Plants.md",
-    "Home Garden/Temperatures.md",
     "Home Technology/Lav's Phone.md",
     "Home Technology/Miranda's Phone.md",
     "Home Technology/Lav's Computer.md",
