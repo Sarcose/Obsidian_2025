@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Garden/Planting Plan.md",
+                "file": "Minor Projects/PS2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planting Plan"
+              "title": "PS2"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "68ef14a6c4b3858d",
@@ -187,9 +186,12 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
+    "Home Technology/ASUS.md",
+    "Minor Projects/PS2.md",
+    "Home Technology/Lav's Computer.md",
+    "Home Garden/Planting Plan.md",
     "Home Garden/2025 Plan.md",
     "Home Garden/Temperatures.md",
-    "Home Garden/Planting Plan.md",
     "Home Garden/Monthly Plan (Rough).md",
     "Home Garden/1. Unsorted Notes.md",
     "Home Garden/Plant Notes (Living Document).md",
@@ -198,7 +200,6 @@
     "Home Garden/Training Structured Plants.md",
     "Home Technology/Lav's Phone.md",
     "Home Technology/Miranda's Phone.md",
-    "Home Technology/Lav's Computer.md",
     "Home Garden/Investment Ratios.md",
     "Home Garden/0. Information Workflow.md",
     "Minor Projects/Sidenotes Import/SMW.md",
@@ -224,8 +225,6 @@
     "Excalidraw",
     "CleanShot 2025-02-06 at 14.34.22@2x.png",
     "CleanShot 2025-02-06 at 14.32.21@2x.png",
-    "Calendar Project/Notes.md",
-    "2025-02-05.md",
     "Calendar Project",
     "Home Garden"
   ]
