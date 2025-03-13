@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minor Projects/PS2.md",
+                "file": "Home Garden/Aloe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PS2"
+              "title": "Aloe"
             }
           }
         ],
@@ -201,10 +201,11 @@
   },
   "active": "db156dd6eb685e12",
   "lastOpenFiles": [
+    "Minor Projects/PS2.md",
+    "Home Garden/Aloe.md",
     "Minor Projects/Note about this folder.md",
     "Home Garden/Planting Plan.md",
     "Home Technology/ASUS.md",
-    "Minor Projects/PS2.md",
     "Home Technology/Lav's Computer.md",
     "Home Garden/2025 Plan.md",
     "Home Garden/Temperatures.md",
@@ -234,7 +235,6 @@
     "Trust Information",
     "Excalidraw/Drawing 2025-02-06 15.00.09.excalidraw.md",
     "Home Garden/Untitled.md",
-    "Home Garden/Test/blah.md",
     "Home Garden/Test",
     "sourceFolder",
     "Excalidraw",
