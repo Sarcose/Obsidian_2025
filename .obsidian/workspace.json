@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Technology/Lav's Phone.md",
+                "file": "Minor Projects/PS2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lav's Phone"
+              "title": "PS2"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
-    "Home Technology/Miranda's Phone.md",
     "Home Technology/Lav's Phone.md",
+    "Home Technology/Miranda's Phone.md",
     "0. Unsorted/General notes to parse.md",
     "Minor Projects/PS2.md",
     "().md",
