@@ -1,0 +1,1 @@
+This document will serve as a means to attempt to collect concepts and notes about the dissemination of important information.
