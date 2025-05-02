@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Garden/Supplies_List.md",
+                "file": "Bills/Ameren/Ameren Call May 01 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supplies_List"
+              "title": "Ameren Call May 01 2025"
             }
           }
         ]
@@ -186,6 +186,20 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
+    "Bills/Ameren",
+    "Bills/Ameren/Ameren Call May 01 2025.md",
+    "Bills",
+    "GameCrash/TODO.md",
+    "GameCrash.md",
+    "GameCrash/File Structure_old.md",
+    "GameCrash/File Structure.md",
+    "GameCrash/Engine TODO.md",
+    "GameCrash/Engine Pitch.md",
+    "GameCrash/GameCrash_old.md",
+    "GameCrash/Spaceplane.lua prototype.md",
+    "GameCrash/Space.lua prototype.md",
+    "Home Garden/Supplies_List.md",
+    "GameCrash",
     "Home Garden/Planting Plan.md",
     "Home Garden/Plant Notes (Living Document).md",
     "Home Garden/Monthly Plan (Rough).md",
@@ -200,32 +214,18 @@
     "Activism/Dissemination.md",
     "Trust Information/Environmental/Main.md",
     "Activism/Trust.md",
-    "GameCrash.md",
     "Activism",
-    "().md",
     "CleanShot 2025-02-06 at 14.31.46@2x.png",
     "CleanShot 2025-02-06 at 14.32.21@2x.png",
     "CleanShot 2025-02-06 at 14.34.22@2x.png",
-    "Minor Projects/PS2.md",
-    "Home Technology/Miranda's Phone.md",
-    "Home Garden/Temperatures.md",
     "0. Unsorted",
     "Minor Projects/Archive",
     "Home Technology/Archive",
     "Home Garden/Archive",
-    "Home Garden/Aloe.md",
-    "Home Garden/2025 Plan.md",
-    "Home Garden/0. Information Workflow.md",
-    "Minor Projects/Note about this folder.md",
-    "Home Technology/ASUS.md",
-    "Home Technology/Lav's Computer.md",
-    "Home Garden/1. Unsorted Notes.md",
     "Minor Projects/Sidenotes Import",
     "Home Technology",
     "Trust Information/Environmental",
-    "Trust Information/Cathy",
     "Trust Information/Untitled.canvas",
-    "Untitled.canvas",
-    "Trust Information"
+    "Untitled.canvas"
   ]
 }
