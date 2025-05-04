@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameCrash/spaceplane.lua.md",
+                "file": "GameCrash/terrainlayer.lua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spaceplane.lua"
+              "title": "terrainlayer.lua"
             }
           }
         ],
@@ -201,8 +201,9 @@
   },
   "active": "f024a30c43dea081",
   "lastOpenFiles": [
-    "GameCrash/space.lua.md",
     "GameCrash/spaceplane.lua.md",
+    "GameCrash/terrainlayer.lua.md",
+    "GameCrash/space.lua.md",
     "GameCrash.md",
     "GameCrash",
     "Bills/Ameren/Ameren Call May 01 2025.md",
@@ -230,7 +231,6 @@
     "Home Technology/Phone Optimization Project.md",
     "0. Unsorted/General notes to parse.md",
     "Activism/Dissemination.md",
-    "Trust Information/Environmental/Main.md",
     "Activism",
     "CleanShot 2025-02-06 at 14.31.46@2x.png",
     "CleanShot 2025-02-06 at 14.32.21@2x.png",
