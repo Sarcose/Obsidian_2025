@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bills/Ameren/Ameren Call May 01 2025.md",
+                "file": "GameCrash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ameren Call May 01 2025"
+              "title": "GameCrash"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
-    "Bills/Ameren",
     "Bills/Ameren/Ameren Call May 01 2025.md",
+    "Bills/Ameren",
     "Bills",
     "GameCrash/TODO.md",
     "GameCrash.md",
@@ -224,7 +224,6 @@
     "Home Garden/Archive",
     "Minor Projects/Sidenotes Import",
     "Home Technology",
-    "Trust Information/Environmental",
     "Trust Information/Untitled.canvas",
     "Untitled.canvas"
   ]
