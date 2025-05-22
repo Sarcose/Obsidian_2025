@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameCrash/TODO.md",
+                "file": "GameCrash/space.lua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "space.lua"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
-    "GameCrash/spaceplane.lua.md",
     "GameCrash/TODO.md",
+    "GameCrash/spaceplane.lua.md",
     "GameCrash/terrainlayer.lua.md",
     "GameCrash/space.lua.md",
     "GameCrash.md",
@@ -209,7 +209,6 @@
     "Bills/Ameren/Ameren Call May 01 2025.md",
     "Bills/Ameren",
     "Bills",
-    "GameCrash/TODO.md",
     "GameCrash/File Structure_old.md",
     "GameCrash/File Structure.md",
     "GameCrash/Engine TODO.md",
