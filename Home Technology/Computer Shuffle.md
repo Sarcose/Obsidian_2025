@@ -21,23 +21,22 @@ Parts list in [[Lav's Computer]]
 - [x] Plug in new drive to extra slot
 	- [x] Run performance tests "With New Extra Drive"
 - [x] Close device
-- [ ] Install and verify Plex is running
+- [x] Install and verify Plex is running
 
 ## Lenovo
 
-**Pertinent data (chart)**
-- [ ] Find three games to benchmark against, looking up min specs for said games. Low spec, med spec, modern spec
-	- Low Spec:
-	- Med Spec:
-	- Modern Spec:
+- **RAM**
+	- Current: 12GB
+	- Max: 16GB
+- **Storage**
+	- Current:
+	- Bays:
 
-| Spec | Stat | Compared to my ASUS | Game 1 | Game 2 | Game 3 |
-| ---- | ---- | ------------------- | ------ | ------ | ------ |
-|      |      |                     |        |        |        |
-**Dual Boot Schema**
 
-Windows 10 + Linux (Distro?)
-Data drive - NTFS, with code repos (accessible on both machines)
-
-Disorganized plans:
-	- Full development tool suite on Linux machine
+## Toshiba
+- **RAM**
+	- Current: 8
+	- Max: 8
+- **Storage**
+	- Current: SSD 500GB, 1 Bay
+	- Bays: 1 + 1 cd drive, unused

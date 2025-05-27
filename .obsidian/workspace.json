@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameCrash/space.lua.md",
+                "file": "Home Technology/Computer Shuffle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "space.lua"
+              "title": "Computer Shuffle"
             }
           },
           {
@@ -200,6 +200,7 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
+    "GameCrash/space.lua.md",
     "GameCrash/Spaceplane.lua prototype.md",
     "GameCrash/Space.lua prototype.md",
     "GameCrash/GameCrash_old.md",
@@ -213,7 +214,6 @@
     "GameCrash/TODO.md",
     "GameCrash/spaceplane.lua.md",
     "GameCrash/terrainlayer.lua.md",
-    "GameCrash/space.lua.md",
     "GameCrash.md",
     "GameCrash",
     "Bills/Ameren/Ameren Call May 01 2025.md",
