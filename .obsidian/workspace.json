@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trust Information/Environmental/Main.md",
+                "file": "Home Technology/Control Glove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Control Glove"
             }
           },
           {
@@ -200,6 +200,8 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
+    "Home Technology/XReal.md",
+    "Trust Information/Environmental/Main.md",
     "CleanShot 2025-02-06 at 14.31.46@2x.png",
     "Home Garden/Planting Plan.md",
     "Home Garden/Plant Notes (Living Document).md",
@@ -209,7 +211,6 @@
     "Home Garden/2025 Plan.md",
     "Home Garden/1. Unsorted Notes.md",
     "Home Garden/0. Information Workflow.md",
-    "Trust Information/Environmental/Main.md",
     "Home Technology/Computer Shuffle.md",
     "GameCrash/space.lua.md",
     "GameCrash/Spaceplane.lua prototype.md",
@@ -219,7 +220,6 @@
     "GameCrash/File Structure.md",
     "GameCrash/File Structure_old.md",
     "GameCrash/Engine Pitch.md",
-    "Home Technology/XReal.md",
     "Home Technology/Control Glove.md",
     "GameCrash/TODO.md",
     "GameCrash/spaceplane.lua.md",

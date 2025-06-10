@@ -25,7 +25,9 @@
 | 5/7/2024   | Projection | Requesting information for 2024 Disbursements                                            | 2024              |
 | 5/8/2024   | Grant      | Granted maximum disbursement for Wildlife Prairie Park ~ $3,174.17                       | 2024              |
 | 5/10/2024  | Invoice    | Trustee Services for 2024 Disbursements ~ $3,489.00                                      | 2024              |
-|            |            |                                                                                          |                   |
+| 5/16/2024  | Projection | Projected available disbursements: $3,941.82, available end of June                      | 2025              |
+| 5/16/2025  | Grant      | Granted partial disbursement for Wildlife Prairie Park ~ $1,838.19                       | 2025              |
+| 6/9/2025   | Invoice    | Trustee Services for 2024 Q1-Q2: $1795                                                   | 2025              |
 
 
 

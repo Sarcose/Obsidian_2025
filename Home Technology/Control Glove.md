@@ -6,13 +6,24 @@
 		- Devices we can test: Fitness shit, Watch stuff, etc. etc.
 	- **LiPo Battery**
 	- **Optional charging board**
-
-
+	- 
 - **Sensor Device:** LSM6DS33 IMU Sensor
 	- I2C Wires for connection
 - **Software:** Python scripts using `bleak`
 	- Testing with `bleak` as well as `nRF-Connect` (see Development)
 
+
+**Supplies List:**
+- [ ] Seeed XIAO nRF52840
+	- [ ] Compatible LiPo Battery https://www.adafruit.com/product/3898
+	- [ ] Charging board for Seeed Studio https://www.seeedstudio.com/LiPo-Rider-Pro.html
+	- [ ] Adafruit TCA9548A I2C Multiplexer (supports multiple I2C connections as below) https://www.adafruit.com/product/2717
+- [ ] LSM6DS33 IMU Sensor x 2
+	- [ ] I2C Wires - these transmit data, and the Seeed device will need the above multiplexer 
+	- [ ] Wire sleeves/sleeve the whole thing up 
+	- [ ] Modular/moddable rings (or: tape at first?) x2
+- [ ] Basic glove for initial prototyping
+- [ ] Compression glove to sew into
 
 
 
@@ -21,7 +32,9 @@
 One or two fingers with a ring + wrist battery and control board -> Bluetooth -> computer for managing device while wearing XReal
 
 ## Dream iteration
-This but as a whole glove.
+- This but as a whole glove.
+- Vibration motor for haptic feedback
+- More channels
 
 # Phases
 ## Development
@@ -29,6 +42,8 @@ Do this on **macOS**, **Windows**, and **Linux** (FYI: Linux is a bonus, as XRea
 - Python using[ Bleak ](https://github.com/hbldh/bleak)(cross-platform)
 - [nRF-Connect](https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-desktop) - a testing application I can use to simply test out the connected devices, I believe?
 
+See this for more info:
+https://chatgpt.com/g/g-p-683f167ad95c8191b905cc7f208b0834-personal/c/68486ad6-8308-8011-95b9-1566b89e7551*
 #### Software
 *Scan for available BLE devices*
 ```python
