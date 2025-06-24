@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Technology/Control Glove.md",
+                "file": "Health Coverage/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Glove"
+              "title": "2025"
             }
           },
           {
@@ -200,6 +200,10 @@
   },
   "active": "a1b8a2b18d5c4bd6",
   "lastOpenFiles": [
+    "CleanShot 2025-06-24 at 13.07.23.png",
+    "Home Technology/Control Glove.md",
+    "Health Coverage/2025.md",
+    "Health Coverage",
     "Home Technology/XReal.md",
     "Trust Information/Environmental/Main.md",
     "CleanShot 2025-02-06 at 14.31.46@2x.png",
@@ -220,13 +224,11 @@
     "GameCrash/File Structure.md",
     "GameCrash/File Structure_old.md",
     "GameCrash/Engine Pitch.md",
-    "Home Technology/Control Glove.md",
     "GameCrash/TODO.md",
     "GameCrash/spaceplane.lua.md",
     "GameCrash/terrainlayer.lua.md",
     "GameCrash.md",
     "GameCrash",
-    "Bills/Ameren/Ameren Call May 01 2025.md",
     "Bills/Ameren",
     "Bills",
     "GameCrash",
@@ -237,7 +239,6 @@
     "Minor Projects/Archive",
     "Home Technology/Archive",
     "Home Garden/Archive",
-    "Minor Projects/Sidenotes Import",
     "Trust Information/Untitled.canvas",
     "Untitled.canvas"
   ]
