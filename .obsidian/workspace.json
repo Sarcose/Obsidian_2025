@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameCrash/space.lua.md",
+                "file": "Home Garden/2025 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "space.lua"
+              "title": "2025 Notes"
             }
           }
         ]
@@ -186,10 +186,14 @@
   },
   "active": "f024a30c43dea081",
   "lastOpenFiles": [
+    "Home Garden/1. Unsorted Notes.md",
+    "Home Garden/2025 Notes.md",
+    "Home Garden/0. Information Workflow.md",
+    "Home Garden/Temperatures.md",
+    "GameCrash/space.lua.md",
     "GameCrash/GameCrash Engine.md",
     "GameCrash/GameCrash_old.md",
     "GameCrash/terrainlayer.lua.md",
-    "GameCrash/space.lua.md",
     "GameCrash/Space.lua prototype.md",
     "GameCrash/spaceplane.lua.md",
     "GameCrash/Spaceplane.lua prototype.md",
@@ -206,14 +210,11 @@
     "Home Garden/Investment Ratios.md",
     "Home Garden/Aloe.md",
     "Home Garden/2025 Plan.md",
-    "Home Garden/1. Unsorted Notes.md",
-    "Home Garden/0. Information Workflow.md",
     "Home Technology/Computer Shuffle.md",
     "GameCrash/File Structure.md",
     "GameCrash/File Structure_old.md",
     "GameCrash/Engine Pitch.md",
     "GameCrash/TODO.md",
-    "GameCrash.md",
     "GameCrash",
     "Bills/Ameren",
     "Bills",
